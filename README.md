@@ -35,6 +35,9 @@
 - ⇶ Desenvolvendo o bot private Zen/O (Whatsapp/Telegram) 🤖
 - ⇶ Autodidata (um pouco...) 🌝
   
+  
+- ⇶ ![Lucas's Profile View](https://komarev.com/ghpvc/?username=Lucas-LIOM&color=ffcbdb)
+  
   <div align="center"><h1>Redes Sociais</h1></div>
   
 <div align="center"> 
