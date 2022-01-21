@@ -30,7 +30,7 @@
 </div>
   
   ## <img src="https://media.tenor.com/images/3c73ab1a2d871e65d0435c28f72f2944/tenor.gif" width="35px"> 𝐔𝐌 𝐏𝐎𝐔𝐂𝐎 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈𝐌...
-- ⇶ Estagiário de TI na @[Senior Sistemas](https://www.senior.com.br/) <img src="https://avatars.githubusercontent.com/u/15125392?s=200&v=4" width="20px">
+- ⇶ Estagiário de TI na [Senior Sistemas](https://www.senior.com.br/) <img src="https://avatars.githubusercontent.com/u/15125392?s=200&v=4" width="20px">
 - ⇶ Pretendo me tornar um futuro analista 🚀🍃
 - ⇶ Desenvolvendo o bot private Zen/O (Whatsapp/Telegram) 🤖
 - ⇶ Autodidata (um pouco...) 🌝
