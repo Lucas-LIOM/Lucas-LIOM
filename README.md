@@ -3,9 +3,9 @@
 </p>
 <p align="center">
 <a href="#">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28px">
   <img title="Lucas" src="https://img.shields.io/badge/𝐋𝐔𝐂𝐀𝐒 𝐋𝐈𝐍𝐒-black?colorA=red&style=for-the-badge"></a>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28px">
 </p>
 <p align="center">
 <a href="https://github.com/Lucas-LIOM"><img title="Criador" src="https://img.shields.io/badge/Criador-𝐋𝐔𝐂𝐀𝐒-pink.svg?style=for-the-badge&logo=github"></a>
