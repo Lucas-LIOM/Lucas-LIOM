@@ -2,7 +2,6 @@
 <img src="https://pbs.twimg.com/media/ExBZGkoWYAQ2UwE.jpg" height="200"/>
 </p>
 <p align="center">
-<a href="#">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28px">
   <img title="Lucas" src="https://img.shields.io/badge/𝐋𝐔𝐂𝐀𝐒 𝐋𝐈𝐍𝐒-black?colorA=red&style=for-the-badge"></a>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28px">
