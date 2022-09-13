@@ -32,7 +32,7 @@
 <div align = "center">
     <h2 align="center">Contatos : </h2>
     <a href="https://wa.me/5547984733124?text=Olá Lucas Lins, tudo bem? :smile:" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/contact.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
-    <a href="https://www.linkedin.com/in/lucaslins/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
+    <a href="https://www.linkedin.com/in/lucas-lins-942044250/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
     <a href="mailto:lucas.linz@outlook.com.br" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
 </div>
 
