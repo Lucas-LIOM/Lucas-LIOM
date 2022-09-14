@@ -37,9 +37,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasLIOM&theme=radical&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LucasLIOM">
   
-[![Lucas Lins github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasLIOM&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lucas Lins github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasLIOM&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Snake animation](https://github.com/LucasLIOM/LucasLIOM/blob/output/github-contribution-grid-snake.svg)
+  
 </section>
 
  ![](https://i.imgur.com/waxVImv.png)
