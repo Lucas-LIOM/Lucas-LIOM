@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://pbs.twimg.com/media/DfXctTFXcAEvpum.jpg" height="350"/>
+<img src="https://pbs.twimg.com/media/DfXctTFXcAEvpum.jpg" height="300"/>
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@
     
 <section align="center">
   <h1 align="center"> :star: 𝐏ᴇʀғɪʟ:</h1>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=Lucas-LIOM&show_icons=true&theme=jolly"/>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-LIOM&layout=compact&langs_count=7&theme=jolly"/><br>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-LIOM&repo=github-readme-stats&cache_seconds=86400&theme=jolly"/>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LucasLIOM&show_icons=true&theme=jolly"/>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLIOM&layout=compact&langs_count=7&theme=jolly"/><br>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLIOM&repo=github-readme-stats&cache_seconds=86400&theme=jolly"/>
   
 <h1 align="center"> :star: 𝐒ᴛᴀᴛᴜs: </h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucas-LIOM&theme=jolly&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/Lucas-LIOM"><img src="https://activity-graph.herokuapp.com/graph?username=Lucas-LIOM&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-![Snake animation](https://github.com/Lucas-LIOM/Lucas-LIOM/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasLIOM&theme=jolly&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LucasLIOM"><img src="https://activity-graph.herokuapp.com/graph?username=LucasLIOM&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![Snake animation](https://github.com/LucasLIOM/LucasLIOM/blob/output/github-contribution-grid-snake.svg)
 </section>
  
 
