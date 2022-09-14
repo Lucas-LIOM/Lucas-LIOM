@@ -14,20 +14,19 @@
     
     
 <section align="center">
-  <h1 align="center"> :star: 𝐏ᴇʀғɪʟ:</h1>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LucasLIOM&show_icons=true&theme=jolly"/>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLIOM&layout=compact&langs_count=7&theme=jolly"/><br>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLIOM&repo=github-readme-stats&cache_seconds=86400&theme=jolly"/>
+ <h1 align="center"> :star: 𝐏ᴇʀғɪʟ:</h1>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LucasLIOM&show_icons=true&theme=radical"/>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLIOM&layout=compact&langs_count=7&theme=radical"/><br>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLIOM&repo=github-readme-stats&cache_seconds=86400&theme=radical"/>
   
-<h1 align="center"> :star: 𝐒ᴛᴀᴛᴜs: </h1>
+ <h1 align="center"> :star: 𝐒ᴛᴀᴛᴜs: </h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasLIOM&theme=jolly&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LucasLIOM"><img src="https://activity-graph.herokuapp.com/graph?username=LucasLIOM&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasLIOM&theme=radical&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LucasLIOM">
+  
+[![Lucas Lins github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasLIOM&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Snake animation](https://github.com/LucasLIOM/LucasLIOM/blob/output/github-contribution-grid-snake.svg)
 </section>
  
-
-
-#
 
 <div align = "center">
     <h2 align="center">Contatos : </h2>
@@ -36,7 +35,6 @@
     <a href="mailto:lucas.linz@outlook.com.br" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
 </div>
 
- #
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
    <p>Estas são as linguagens e as ferramentas que estou em aprendizado no momento, vou continuar atualizando com projetos conforme for praticando...</p>
