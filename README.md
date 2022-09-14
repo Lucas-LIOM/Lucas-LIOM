@@ -25,6 +25,12 @@
 
 - 𝐀ᴏs 17 ᴀɴᴏs ᴄᴏᴍᴇᴄᴇɪ ᴀ ᴛʀᴀʙᴀʟʜᴀʀ ᴄᴏᴍᴏ ᴇsᴛᴀɢɪᴀʀɪᴏ ᴅᴇ ᴛɪ ɴᴀ *sᴇɴɪᴏʀ sɪsᴛᴇᴍᴀs*, ᴜᴍᴀ ᴇᴍᴘʀᴇsᴀ ᴅᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sᴏғᴛᴡᴀʀᴇ ʀᴇᴄᴏɴʜᴇᴄɪᴅᴀ ᴘᴏʀ sᴇʀ ᴜᴍᴀ ᴅᴀs ᴍᴇʟʜᴏʀᴇs ᴇᴍᴘʀᴇsᴀs ᴅᴇ ᴛᴇᴄɴᴏʟᴏɢɪᴀ ᴅᴏ ʙʀᴀsɪʟ, ʟᴀ ᴄᴏɴʜᴇᴄɪ ᴏᴜᴛʀᴀs ᴛᴇᴄɴᴏʟᴏɢɪᴀs, ғᴇʀʀᴀᴍᴇɴᴛᴀs ᴇ ғʀᴀᴍᴇᴡᴏʀᴋs, ǫᴜᴇ ᴅᴇsᴇɴᴠᴏʟᴠᴇʀᴀᴍ ᴜᴍ ᴘᴀᴘᴇʟ ғᴜɴᴅᴀᴍᴇɴᴛᴀʟ ᴘᴀʀᴀ ᴇᴜ ᴄᴏɴᴛɪɴᴜᴀʀ ᴀ ᴛʀᴀʙᴀʟʜᴀʀ ɴᴇssᴇ ʀᴀᴍᴏ, ᴇ ғᴏɪ ᴀɪ ǫᴜᴇ ᴇᴜ ᴄᴏɴʜᴇᴄɪ ᴏ *ᴊᴀᴠᴀsᴄʀɪᴘᴛ* ᴇ ᴅᴇsᴀʙᴇɪ ᴅᴇ ᴠᴇᴢ, ᴅᴇsᴇᴍᴘᴇɴʜᴀɴᴅᴏ ᴏ ғʀᴏɴᴛᴇɴᴅ ᴄᴏᴍ ᴊs, ɴᴏᴅᴇᴊs, ʜᴛᴍʟ, ᴄss, sᴄss, ᴛs, ᴇᴜ sɪᴍᴘʟᴇsᴍᴇɴᴛᴇ ᴀᴅᴏʀᴇɪ ᴏ ғʀᴏɴᴛᴇɴᴅ ᴇ ᴀɢᴏʀᴀ ᴇsᴛᴏᴜ ᴇsᴛᴜᴅᴀɴᴅᴏ ʙᴀsᴛᴀɴᴛᴇ ᴘᴀʀᴀ sᴇʀ ᴜᴍ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ ғʀᴏɴᴛᴇɴᴅ/ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ ғᴜʟʟsᴛᴀᴄᴋ.
 
+- 𝐏ᴇssᴏᴀʟᴍᴇɴᴛᴇ, sᴏᴜ ᴜᴍᴀ ᴘᴇssᴏᴀ ʙᴇᴍ ǫᴜɪᴇᴛᴀ ᴇ ᴘᴀᴄɪᴇɴᴛᴇ, ᴀᴅᴏʀᴏ ᴄᴏɴᴠᴇʀsᴀʀ ᴀʙᴇʀᴛᴀᴍᴇɴᴛᴇ sᴏʙʀᴇ ǫᴜᴀʟǫᴜᴇʀ ᴄᴏɪsᴀ, ᴅᴇsᴅᴇ ᴛᴇᴄɴᴏʟᴏɢɪᴀ ᴀᴛᴇ ᴘᴏʟɪᴛɪᴄᴀ (?) ᴍᴀs ᴇɴғɪᴍ xᴅ, ᴀᴘʀᴇɴᴅᴏ ʀᴀᴘɪᴅᴏ ᴇ sᴏᴜ ʙᴀsᴛᴀɴᴛᴇ ᴄʀɪᴀᴛɪᴠᴏ, ᴍᴇᴜ ɢᴏsᴛᴏ ᴍᴜsɪᴄᴀʟ ᴇ ʙᴇᴍ ᴘᴇᴄᴜʟɪᴀʀ, ᴍᴇ ᴀᴅᴀᴘᴛᴇɪ ᴀᴏ ᴇsᴛɪʟᴏ ᴠᴀᴘᴏʀᴡᴀᴠᴇ, ʟᴏғɪ ᴇ ᴀʟɢᴜᴍᴀs ʙᴀᴛɪᴅᴀs ᴘʜᴏɴᴋ, ᴘᴏʀᴛᴀɴᴛᴏ ᴏ ʀᴏᴄᴋ ᴇ ᴍᴇᴜ ᴘʀɪɴᴄɪᴘᴀʟ ɢᴏsᴛᴏ ᴅᴇ ᴍᴜsɪᴄᴀs! ᴀᴅᴏʀᴏ ᴀ ɪᴀ (ᴄʜᴀᴛʙᴏᴛs/ɪɴᴛᴇʟɪɢᴇɴᴄɪᴀ ᴀʀᴛɪғɪᴄɪᴀʟ) ᴇ ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴇsᴛᴏᴜ ᴛʀᴀʙᴀʟʜᴀɴᴅᴏ ɴᴜᴍ ᴘʀᴏᴊᴇᴛɪɴʜᴏ ᴘᴇssᴏᴀʟ ᴅᴇ ʀᴏʙᴏs ᴇ ᴄᴀᴅᴀ ᴠᴇᴢ ᴍᴇ ᴀᴘʀᴏғᴜɴᴅᴏ ɴᴏ sᴇᴛᴏʀ ᴅᴇ ᴀᴜᴛᴏᴍᴀᴄᴀᴏ, ᴄᴏɴsᴛʀᴜɪʀ ʀᴏʙᴏs sᴀᴏ ᴀs ᴍɪɴʜᴀs ᴇsᴘᴇᴄɪᴀʟɪᴅᴀᴅᴇs, ᴇᴍ ᴛᴇᴍᴘᴏ ʟɪᴠʀᴇ, ɢᴏsᴛᴏ ᴅᴇ ᴇsᴛᴜᴅᴀʀ sᴏʙʀᴇ ʟɪɴɢᴜᴀɢᴇɴs ǫᴜᴇ ᴀɪɴᴅᴀ ɴᴀᴏ ᴘᴏssᴜᴏ ᴅᴏᴍɪɴɪᴏ ᴛᴏᴛᴀʟ (ᴇ ᴄᴏᴢɪɴʜᴀʀ ᴛᴀᴍʙᴇᴍ). ᴍᴇᴜ ʀᴇᴘᴏsɪᴛᴏʀɪᴏ ᴇ ʙᴇᴍ ᴠᴀʀɪᴀᴅᴏ, ᴅᴇsᴅᴇ ᴘʀᴏᴊᴇᴛᴏs ᴘᴇssᴏᴀɪs ᴀᴛᴇ ᴛʀᴀʙᴀʟʜᴏs ᴅᴇ ᴀᴜʟᴀ, ᴍᴀs ᴄᴀsᴏ ǫᴜᴇɪʀᴀ ᴅᴀʀ ᴜᴍᴀ ᴏʟʜᴀᴅᴀ ғɪǫᴜᴇ ᴀ ᴠᴏɴᴛᴀᴅᴇ!!
+
+<h4 align="center">
+  <a href="https://github.com/LucasLIOM?tab=repositories" title="Mostrar Repositórios">🔎 Mostrar Repositórios 🔍</a>
+</h4>
+
  ![](https://i.imgur.com/waxVImv.png)
     
 <section align="center">
@@ -38,8 +44,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasLIOM&theme=radical&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LucasLIOM">
   
 [![Lucas Lins github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasLIOM&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Snake animation](https://github.com/LucasLIOM/LucasLIOM/blob/output/github-contribution-grid-snake.svg)
   
 </section>
 
