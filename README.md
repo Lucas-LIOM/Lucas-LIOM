@@ -15,9 +15,9 @@
     
 <section align="center">
  <h1 align="center"> :star: 𝐏ᴇʀғɪʟ:</h1>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LucasLIOM&show_icons=true&theme=radical"/>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLIOM&layout=compact&langs_count=7&theme=radical"/><br>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLIOM&repo=github-readme-stats&cache_seconds=86400&theme=radical"/>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=LucasLIOM&show_icons=true&theme=radical"/>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLIOM&layout=compact&langs_count=7&theme=radical"/><br>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLIOM&repo=github-readme-stats&cache_seconds=86400&theme=radical"/>
   
  <h1 align="center"> :star: 𝐒ᴛᴀᴛᴜs: </h1>
 
