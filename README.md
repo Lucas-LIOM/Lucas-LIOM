@@ -36,8 +36,7 @@
 <section align="center">
  <h1 align="center"> :star: 𝐏ᴇʀғɪʟ:</h1>
   <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=LucasLIOM&show_icons=true&theme=radical"/>
-  <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLIOM&layout=compact&langs_count=7&theme=radical"/><br>
-  <img height = "150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLIOM&repo=github-readme-stats&cache_seconds=86400&theme=radical"/>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLIOM&layout=compact&langs_count=7&theme=radical"/>
   
  <h1 align="center"> :star: 𝐒ᴛᴀᴛᴜs: </h1>
 
@@ -52,8 +51,7 @@
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
    <p>Esᴛᴀs sᴀᴏ ᴀs ʟɪɴɢᴜᴀɢᴇɴs, ғᴇʀʀᴀᴍᴇɴᴛᴀs ᴇ ғʀᴀᴍᴇᴡᴏʀᴋs ɴᴀ ǫᴜᴀʟ ᴇᴜ ᴊᴀ ᴘᴀssᴇɪ, ɴᴇᴍ ᴛᴏᴅᴀs ᴇʟᴀs ᴇᴜ ᴘᴏssᴜᴏ ᴜᴍ ɴɪᴠᴇʟ "ᴇxᴘᴇʀᴛ", ᴘᴏʀᴛᴀɴᴛᴏ ᴠᴏᴜ ᴅᴇɪxᴀʀ ᴀʙᴀɪxᴏ ᴀs ᴛᴇᴄɴᴏʟᴏɢɪᴀs ǫᴜᴇ ᴇsᴛᴏᴜ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ ɴᴏ ᴍᴏᴍᴇɴᴛᴏ!</p>
-   
-   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -62,12 +60,12 @@
 
 <section align="center">
   <p>:rocket: Aᴘʀᴇɴᴅᴇɴᴅᴏ ɴᴏ ᴍᴏᴍᴇɴᴛᴏ:</p>
-   <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
+   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
+   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </section>
 
